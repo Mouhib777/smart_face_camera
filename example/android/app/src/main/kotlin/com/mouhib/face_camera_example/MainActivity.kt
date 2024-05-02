@@ -1,4 +1,4 @@
-package com.conezi.face_camera_example
+package com.mouhib.face_camera
 
 import io.flutter.embedding.android.FlutterActivity
 
