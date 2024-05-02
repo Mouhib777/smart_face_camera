@@ -1,4 +1,4 @@
-package com.conezi.face_camera
+package com.mouhib.face_camera
 
 import androidx.annotation.NonNull
 

@@ -1,4 +1,4 @@
-group 'com.conezi.face_camera'
+group 'com.mouhib.face_camera'
 version '1.0-SNAPSHOT'
 
 buildscript {
