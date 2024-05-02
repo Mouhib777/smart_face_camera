@@ -5,7 +5,6 @@
 ### Preview
 ---  
 
-![](https://github.com/Conezi/face_camera/blob/main/demo/preview.gif?raw=true)
 
 
 ### Installation
